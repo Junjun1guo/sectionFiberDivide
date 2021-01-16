@@ -30,7 +30,7 @@ corFiber,coverFiber,barFiber=circleSection(name,outD, coverThick, outbarD, outba
 ```
 
 ##  CircleHole section fiber generate
-<img src="https://github.com/Junjun1guo/sectionFiberGenerate/raw/master/circleHole.png" width =40% height =40% div align="center">
+<img src="https://github.com/Junjun1guo/sectionFiberDivide/raw/main/circleHole.jpg" width =40% height =40% div align="center">
 
 ```python
 from sectionFiberMain import circleSection
