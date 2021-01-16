@@ -50,7 +50,7 @@ corFiber, coverFiber, barFiber = circleSection(name,outD, coverThick, outbarD, o
 ```
 
 ## Polygen section fiber generate
-<img src="https://github.com/Junjun1guo/sectionFiberGenerate/raw/master/polygen.png" width =40% height =40% div align="center">
+<img src="https://github.com/Junjun1guo/sectionFiberDivide/raw/main/polygon.jpg" width =40% height =40% div align="center">
 
 ```python
 from sectionFiberMain import polygonSection
@@ -74,7 +74,7 @@ coreFiber,coverFiber,barFiber=polygonSection(name,outSideNode, outSideEle, cover
 ```
 
 ## PolygenThreeHole section fiber generate
-<img src="https://github.com/Junjun1guo/sectionFiberGenerate/blob/userBarMeshForPolygonSection//polygonThrewHoles.jpg" width =40% height =40% div align="center">
+<img src="https://github.com/Junjun1guo/sectionFiberDivide/raw/main/polygonWithThreeHoles.jpg" width =40% height =40% div align="center">
 
 ```python
 from sectionFiberMain import polygonSection
@@ -109,7 +109,7 @@ coreFiber,coverFiber,barFiber=polygonSection(name,outSideNode, outSideEle, cover
 ```
 
 ## polygon with one hole section user bar mesh example
-<img src="https://github.com/Junjun1guo/sectionFiberGenerate/blob/userBarMeshForPolygonSection/polygonUserBarMesh.jpg" width =40% height =40% div align="center">
+<img src="https://github.com/Junjun1guo/sectionFiberDivide/raw/main/polygonWithHole.jpg" width =40% height =40% div align="center">
 
 ```python
 from sectionFiberMain import polygonSection
