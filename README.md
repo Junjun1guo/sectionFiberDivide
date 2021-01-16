@@ -14,8 +14,7 @@ Generate sectional fibers based on python programming
 The followings are some basic examples, you can also obtain these examples using help(circleSection) and help(polygonSection).
 
 ## Circle section fiber generate
-
-<img src="https://github.com/Junjun1guo/sectionFiberGenerate/raw/master/circle.png" width =40% height =40% div align="center">
+<img src="https://github.com/Junjun1guo/sectionFiberDivide/raw/master/circle.jpg" width =40% height =40% div align="center">
 
 ```python
 from sectionFiberMain import circleSection
