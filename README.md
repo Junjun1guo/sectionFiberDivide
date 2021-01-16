@@ -11,7 +11,7 @@ ______
 # sectionFiberDivide
 Generate sectional fibers based on python programming
 
-The followings are some basic examples, you can also obtain these examples using help(circleSection) and help(polygonSection).
+The followings are some basic examples, and you can also find them in the download files.
 
 ## Circle section fiber generate
 <img src="https://github.com/Junjun1guo/sectionFiberDivide/raw/main/circle.jpg" width =40% height =40% div align="center">
