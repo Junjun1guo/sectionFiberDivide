@@ -6,7 +6,7 @@ Environemet: Successfully excucted in python 3.8
 ______
 ## Tutorials      
 1. download the zip file.
-2. download gmsh ([download gmsh](https://gmsh.info/)) that satifies your operation system,and put gmsh.exe to your unzip file in step 1. 
+2. download gmsh.exe ([download gmsh](https://gmsh.info/)) that satifies your operation system,and put gmsh.exe to your unzip file in step 1. 
 
 # sectionFiberDivide
 Generate sectional fibers based on python programming
