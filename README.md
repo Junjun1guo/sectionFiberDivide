@@ -7,7 +7,7 @@ ______
 ## Tutorials      
 1. download the zip file.
 2. download gmsh.exe ([download gmsh](https://gmsh.info/)) that satifies your operation system,and put gmsh.exe to your unzip file in step 1.     
-Note: If you encount AttributeError: module 'pygmsh' has no attribute 'opencascade', please uninstall current pygmsh module and install pygmsh with version 6.1.1
+## Note: If you encount AttributeError: module 'pygmsh' has no attribute 'opencascade', please uninstall current pygmsh module and install pygmsh with version 6.1.1
 # sectionFiberDivide
 Generate sectional fibers based on python programming
 
